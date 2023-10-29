@@ -20,8 +20,8 @@ CVE : CVE-2023-4278
 ### Exploit
 ```
 $ https://github.com/MRCRIMINAL001/EXPOLIT-SCAN
-$ cd CVE-2023-4278/
-$ python exploit.py
+$ cd CVE-2023-4279/
+$ python exploitscan.py
 ```
 
 ### References :
