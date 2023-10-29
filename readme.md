@@ -19,7 +19,7 @@ CVE : CVE-2023-4278
 
 ### Exploit
 ```
-$ git clone https://github.com/revan-ar/CVE-2023-4278
+$ https://github.com/MRCRIMINAL001/EXPOLIT-SCAN
 $ cd CVE-2023-4278/
 $ python exploit.py
 ```
@@ -27,5 +27,4 @@ $ python exploit.py
 ### References :
 - https://wpscan.com/vulnerability/cb3173ec-9891-4bd8-9d05-24fe805b5235
 
-### Donate
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/revan.ar)
+
